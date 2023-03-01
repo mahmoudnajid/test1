@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "149377919159",
+    "project_id": "computing-360a3",
+    "storage_bucket": "computing-360a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149377919159:android:f008c26e4a631641250532",
+        "android_client_info": {
+          "package_name": "mahmoud.naji.lab_computing_activity1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149377919159-ciua2frug683v0dkdt2p716moip4jb2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb08ThuYpw4C7O1Oxx86yEHdwKDkgU_Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149377919159-ciua2frug683v0dkdt2p716moip4jb2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149377919159:android:82ad26c8cf06c889250532",
+        "android_client_info": {
+          "package_name": "mahmoud.naji.labcomputingactivity1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149377919159-ciua2frug683v0dkdt2p716moip4jb2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb08ThuYpw4C7O1Oxx86yEHdwKDkgU_Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149377919159-ciua2frug683v0dkdt2p716moip4jb2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
