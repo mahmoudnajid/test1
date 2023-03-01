@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        //save to firebase
+        //Ahmed
         btnSave.setOnClickListener {
             var name = edtName.text.toString()
             var id = edtId.text.toString()
